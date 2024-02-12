@@ -6,8 +6,12 @@ _Uma aventura nostálgica no universo do Super Mario!_ 🍄
 
 Bem-vindo ao **Super Mario Game**, uma recriação simples e encantadora do clássico **Super Mario Bros.** Desenvolvido com _HTML, CSS e JavaScript_, o jogo permite que o icônico personagem Mario pule habilmente para evitar obstáculos, representados por canos verdes, enquanto navega por um ambiente animado.
 
+## Site do jogo
+
+- **GitHub:** [Site](https://devandreluis.github.io/mario-game/)
+
 ## Capturas de Tela
-![site do jogo funcionando](https://devandreluis.github.io/mario-game/)
+
 ![Super Mario Game](./assets/printsDoGame/inicio.jpg)
 ![Super Mario Game](./assets/printsDoGame/Mariodead.jpg)
 ![Super Mario Game](./assets/printsDoGame/marioJumping.jpg)
